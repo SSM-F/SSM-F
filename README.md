@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Sharon
-- 👀 I’m interested in coding, reading and baking 
-- 🌱 I’m currently working on a project connecting a databases with diferrent cloud resources
-- 💞️ I’m looking to collaborate on more data enginering projects
-- 📫 How to reach me @sharonschmal@gmail.com 
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: As a child I used to say that I wanted to be a painter ... a house painter
+- 👋 Hi, I’m Sharon.
+- 🌱 Currently working on connecting databases with various cloud resources.
+- 👀 I enjoy coding, reading, and baking.
+- 💞️ Open to collaborating on data engineering projects.
+- 📫 Reach me by sending a message.
+- 😄 Pronouns: She/her.
+- ⚡Fun fact: As a child, I wanted to be a house painter!
 
 <!---
 SSM-F/SSM-F is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
